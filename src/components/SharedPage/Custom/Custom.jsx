@@ -17,7 +17,7 @@ const Custom = () => {
         <div className=" py-10">
 
             <h1 className=" text-4xl font-bold text-center ">MORE CUSTOM STYLE OPTIONAL</h1>
-            <div className=" grid grid-cols-4 gap-5 ">
+            <div className=" grid grid-cols-3 gap-5 ">
                 {
                     customCard?.map(item=><CustomCard key={customCard._id} item={item}></CustomCard>)
                 }

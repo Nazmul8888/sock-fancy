@@ -82,8 +82,11 @@ const Form = () => {
         </div>
       </div>
       </div>
+      <br />
       {/* button type will be submit for handling form submission*/}
-      <button  className="py-2 px-5 mb-4 mt-8 overflow-hidden shadow-lg border-2 rounded-md border-dashed border-[#0095ff] before:block before:absolute before:translate-x-full before:inset-0 before:bg-[#0095ff]  z-50 btn-wide">CUSTOMIZE NOW</button>
+      <button className="btn btn-wide bg-[#537E2C]  hover:bg-red-500">Wide</button>
+      <br />
+      <p>By submitting this form, you confirm that you have read and agree to the Terms & Conditions.</p>
     </form>
   </div>
   </div>
