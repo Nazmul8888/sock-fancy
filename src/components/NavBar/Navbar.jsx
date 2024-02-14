@@ -4,11 +4,16 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     const navLinks = <>
      <li><Link to='/'>Socks</Link></li>
-     <li><Link to='/'>Products</Link></li>
-     <li><Link to='/'>Products</Link></li>
+     <li><Link to='/blanketsTowels'>Blankets & Towels</Link></li>
+     <li><Link to='/clothingAccesories'> Clothing & Accesories</Link></li>
+     <li><Link to='/homeDrinkware'> Home & Drinkware</Link></li>
+     <li ><Link className="bg-[#333] text-white" to='/getFreeMockups'> Get Free Mockups</Link></li>
 
 
     </>
+
+
+    
     return (
         <div>
             <div className="navbar bg-base-100">
@@ -22,7 +27,7 @@ const Navbar = () => {
        {navLinks}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+    <a className="btn btn-ghost text-3xl italic font-bold">Sock Fancy</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -30,7 +35,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+    
   </div>
 </div>
         </div>

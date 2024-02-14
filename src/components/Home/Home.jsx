@@ -1,4 +1,5 @@
 import Banner from "../MyBanner/Banner";
+import Blankets from "../NavBar/Blankets/Blankets";
 import NavBarRight from "../NavBar/NavBarRight/NavBarRight";
 import Custom from "../SharedPage/Custom/Custom";
 import Form from "../SharedPage/Form/Form";
@@ -10,8 +11,8 @@ const Home = () => {
         <div>
            
            <Custom></Custom>
-           <NavBarRight></NavBarRight>
-           <Form></Form>
+          
+           
            
         </div>
 

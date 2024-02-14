@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Classic Golf Towel",
+      "image": "https://i.ibb.co/rZCgDz0/651c17ab3282f3651b222898-Dynasty-Custom-Sublimated-Golf-Towel-removebg-preview.png",
+      "price": "As low as $5.15 "
+    },
+    {
+      "id": 2,
+      "title": "Beach Towel",
+      "image": "https://i.ibb.co/4Tqf9Zr/651c17ab3282f3651b2228a7-Seascape-Google.png",
+      "price": " Various Sizes Available "
+    },
+    {
+      "id": 3,
+      "title": "Rally Sports Towel",
+      "image": "https://i.ibb.co/s1DjZvP/651c17ab3282f3651b22289f-OSHS2012-White-removebg-preview-p-500.png",
+      "price": "As low as $2.60 "
+    },
+    {
+      "id": 4,
+      "title": "Mink Fleece Blanket",
+      "image": " https://i.ibb.co/DWp9BQ3/651c17ab3282f3651b22288b-Custom-Fleece-Blanket-Group-removebg-preview-p-500.png",
+      "price": " Various Sizes Available "
+    },
+    {
+      "id": 5,
+      "title": "Sherpa Blanket",
+      "image": "https://i.ibb.co/JrLs0Mm/651c17ab3282f3651b222877-Spotify-Sherpa-Blanket-Mockup-03-p-500.png",
+      "price": " Various Sizes Available "
+    }
+    
+  ]

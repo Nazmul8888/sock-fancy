@@ -6,9 +6,9 @@ const CustomCard = ({item}) => {
     return (
       <Link to= '/form'>
       <div className='max-w-screen-xl mx-auto' >
-            <div className="card w-96  ml-20">
+            <div className="card w-96 ">
   <figure className="px-10 pt-10">
-    <img  src={image}alt="Shoes" className="rounded-xl w-[300px] h-[302px]" />
+    <img  src={image}alt="Shoes" className="" />
   </figure>
   <div className="card-body items-center text-center">
     <h2 className="card-title">{title}</h2>

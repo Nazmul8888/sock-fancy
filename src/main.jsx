@@ -7,6 +7,8 @@ import {
 } from "react-router-dom";
 import Layout from './components/Layout/Layout';
 import Home from './components/Home/Home';
+import Blankets from './components/NavBar/Blankets/Blankets';
+import GetFreeMockups from './components/NavBar/GetFreeMockups/GetFreeMockups';
 
 const router = createBrowserRouter([
   {
@@ -16,6 +18,14 @@ const router = createBrowserRouter([
       {
         path:'/',
         element: <Home></Home>
+      },
+      {
+        path:'blanketsTowels',
+        element: <Blankets></Blankets>
+      },
+      {
+        path:'getFreeMockups',
+        element:<GetFreeMockups></GetFreeMockups>
       }
     ]
   },
