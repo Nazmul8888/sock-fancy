@@ -14,7 +14,7 @@ const Custom = () => {
 
     },[])
     return (
-        <div className=" py-10">
+        <div className=" py-10 max-w-screen-xl mx-auto">
 
             <h1 className=" text-4xl font-bold text-center ">Browse our premium <br />custom products</h1>
             <br />

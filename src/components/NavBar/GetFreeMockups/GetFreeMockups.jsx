@@ -18,7 +18,7 @@ const GetFreeMockups = () => {
         console.log(updateCoffee);
     }
     return (
-        <div className=" py-10">
+        <div className=" py-10 max-w-screen-xl mx-auto ">
            <div className=" flex  justify-between mr-32">
             <div>
             <h5>READY TO PLACE AN ORDER? </h5>
@@ -35,6 +35,7 @@ const GetFreeMockups = () => {
             
 
            <div className="   marg border mt-10 mb-10  p-10  bg-sky-400   m-8">
+            <h1 className=" text-2xl font-sans font-bold">Submit your project details:</h1>
            <form onSubmit={subFrom} >
             <div className="md:flex mb-8">
                 <div className="form-control md:w-1/2">
@@ -42,7 +43,7 @@ const GetFreeMockups = () => {
                         
                     </label>
                     <label className="input-group">
-                        <span>First Name</span>
+                        <span>First Name <span className=" text-red-600">*</span></span>
                         <input type="text" name="first" defaultValue={name} placeholder="" className="input input-bordered w-full" />
                     </label>
                 </div>
@@ -51,7 +52,7 @@ const GetFreeMockups = () => {
                         
                     </label>
                     <label className="input-group">
-                        <span>Last Name</span>
+                        <span>Last Name <span className=" text-red-600">*</span></span>
                         <input type="text" name="last"  placeholder="" className="input input-bordered w-full" />
                     </label>
                 </div>
@@ -63,7 +64,7 @@ const GetFreeMockups = () => {
                         
                     </label>
                     <label className="input-group">
-                        <span>Company Email</span>
+                        <span>Company Email <span className=" text-red-600">*</span></span>
                         <input type="text" name="email"   placeholder="" className="input input-bordered w-full" />
                     </label>
                 </div>
@@ -110,6 +111,9 @@ const GetFreeMockups = () => {
             </div>
          
             <input type="submit" value="Submit" className="btn btn-block" />
+            <br />
+            <br />
+            <p className=" text-black">By submitting this form, you confirm that you have read and agree to the Terms & Conditions.</p>
         </form>
            </div>
   </div>

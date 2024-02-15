@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "Dan Cathy",
+      "image": "https://i.ibb.co/qnzNbjV/651c17ab3282f3651b22286c-Chick-Fil-A-200x.png",
+      "details":  "When looking for fun and creative way to showcase our brand, we looked no further than Sock Fancy." ,
+      "rank": "CEO"
+      
+    },
+    {
+      "id": 2,
+      "name": "Kristin Kullinger",
+      "image": "https://i.ibb.co/Yf9NN4c/651c17ab3282f3651b2228b6-kohls-p-500.webp",
+      "details": "We reached out to comparable companies and Sock Fancy had surpassed them all in options!",
+      "rank": "Employment Brand Coordinator"
+    },
+    {
+      "id": 3,
+      "title": "Portia Pascal",
+      "image": "https://i.ibb.co/0p0Ly0X/651c17ab3282f3651b2228b5-i-shgcdn-19-p-500.webp",
+      "details": "Sock Fancy does excellent branding & the quality of the sock is fantastic & extremely comfortable!",
+      "rank": "Assistant to the Co-Founder"
+    }
+    
+  ]

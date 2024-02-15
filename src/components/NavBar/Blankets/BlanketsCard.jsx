@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const BlanketsCard = ({item}) => {
     const {title, image, price} = item;
     return (
-        <div>
+        <div className=" a">
     <div className="card w-96  ">
   <figure className="px-10 pt-10"> 
     <img  src={image} alt="Shoes" className=" w-[250px] h-[250px] bg-[#f0f7fe] border" />
