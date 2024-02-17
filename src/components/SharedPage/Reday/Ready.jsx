@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Ready = () => {
     return (
-        <div className=" bg-[#3871E0] h-96 ">
+        <div className=" bg-[#3871E0] h-96 py-14">
             <div>
                 <h1 className=" text-7xl font-bold text-center text-white  p-12  ">Ready to get started?</h1>
             </div>

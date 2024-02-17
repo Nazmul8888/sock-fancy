@@ -34,7 +34,7 @@ const GetFreeMockups = () => {
             
             
 
-           <div className="   marg border mt-10 mb-10  p-10  bg-sky-400   m-8">
+           <div className="   marg border mt-10 mb-10  p-10  bg-sky-400 shadow-xl  m-8">
             <h1 className=" text-2xl font-sans font-bold">Submit your project details:</h1>
            <form onSubmit={subFrom} >
             <div className="md:flex mb-8">

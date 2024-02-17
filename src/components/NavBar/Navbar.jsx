@@ -7,7 +7,7 @@ const Navbar = () => {
      <li><Link to='/blanketsTowels'>Blankets & Towels</Link></li>
      <li><Link to='/clothingAccesories'> Clothing & Accesories</Link></li>
      <li><Link to='/homeDrinkware'> Home & Drinkware</Link></li>
-     <li ><Link className="bg-[#333] text-white" to='/getFreeMockups'> Get Free Mockups</Link></li>
+     <li ><Link className="bg-[#333]  text-white" to='/getFreeMockups'> Get Free Mockups</Link></li>
 
 
     </>

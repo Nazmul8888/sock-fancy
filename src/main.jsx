@@ -9,6 +9,8 @@ import Layout from './components/Layout/Layout';
 import Home from './components/Home/Home';
 import Blankets from './components/NavBar/Blankets/Blankets';
 import GetFreeMockups from './components/NavBar/GetFreeMockups/GetFreeMockups';
+import Clothing from './components/NavBar/Clothing/Clothing';
+import Drinkware from './components/NavBar/Drinkware/Drinkware';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +24,14 @@ const router = createBrowserRouter([
       {
         path:'blanketsTowels',
         element: <Blankets></Blankets>
+      },
+      {
+        path:'clothingAccesories',
+        element: <Clothing></Clothing>
+      },
+      {
+        path:'homeDrinkware',
+        element: <Drinkware></Drinkware>
       },
       {
         path:'getFreeMockups',

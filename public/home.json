@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Metal Enamel Mug",
+      "image": "https://i.ibb.co/FxJKn1n/651c17ab3282f3651b2228a4-Camp-Mug-Main-Thumbnail-removebg-preview.png",
+      "price": " As low as $XX.XX "
+    },
+    {
+      "id": 2,
+      "title": "Stone Coasters",
+      "image": "https://i.ibb.co/YyH3K50/651c17ab3282f3651b2228a5-908339-1-removebg-preview.png",
+      "price": " As low as $8.65 "
+    },
+    {
+      "id": 3,
+      "title": "Wood Coasters",
+      "image":"https://i.ibb.co/2dhSgd9/651c17ab3282f3651b2228a6-ur-coaster-pack-4-flatlay-square-600x600-2-1000x100020-Edited-p-500.png" ,
+      "price": " As low as $12.03 "
+    },
+    {
+      "id": 4,
+      "title": "Ceramic Mugs",
+      "image": "https://i.ibb.co/yN4ZdqY/651c17ab3282f3651b2228a8-white-ceramic-mug-with-color-inside-pink-11oz-left-638928c7808ea-p-500.webp",
+      "price": "Various Sizes Available"
+    },
+    {
+      "id": 5,
+      "title": "Water Bottles",
+      "image": "https://i.ibb.co/zrZ2mtR/651c17ab3282f3651b2228a9-Screen-Shot-2023-10-01-at-2-45-03-PM-removebg-preview.png",
+      "price": " Starting at $2.99 "
+    },
+    {
+      "id": 6,
+      "title": " Bottle & Can Koozies",
+      "image": "https://i.ibb.co/nsK7jpw/651c17ab3282f3651b22289a-Bottle-Koozie-Group.png",
+      "price": " As low as $4.74 "
+    },
+    {
+      "id": 7,
+      "title": "Ceramic Ornaments",
+      "image": "https://i.ibb.co/kX4q5Wr/651c17ab3282f3651b22289d-Spotify-Holiday-Box-Mockup-04-1-p-500.png",
+      "price": " As low as $4.74"
+    },
+    {
+      "id": 7,
+      "title": "Mouse Pads",
+      "image": "https://i.ibb.co/wBX5fyb/651c17ab3282f3651b22289c-Screen-Shot-2023-10-01-at-1-13-56-PM-removebg-preview-p-500.png",
+      "price": " As low as $5.98"
+    },
+    {
+      "id": 8,
+      "title": "Luggage Tags",
+      "image":"https://i.ibb.co/xgf95LB/651c17ab3282f3651b222894-Luggage-Tag-Mockup-1-removebg-preview.png",
+      "price": " As low as $6.72 "
+    }
+   
+  ]
