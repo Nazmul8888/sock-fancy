@@ -1,3 +1,5 @@
+import CartAdd from "../../SharedPage/AddToCart/CartAdd";
+
 
 
 const GetFreeMockups = () => {
@@ -115,6 +117,14 @@ const GetFreeMockups = () => {
             <br />
             <p className=" text-black">By submitting this form, you confirm that you have read and agree to the Terms & Conditions.</p>
         </form>
+           </div>
+
+           {/* gift box */}
+
+           <div>
+             
+               <CartAdd></CartAdd>
+                
            </div>
   </div>
         

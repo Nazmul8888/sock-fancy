@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Christmas Box",
+      "image": "https://i.ibb.co/r6S3KXw/christmas-box.jpg",
+      "price": " USD 5.00 "
+    },
+    {
+      "id": 2,
+      "title": "Birthday Box",
+      "image": "https://i.ibb.co/XzybPGc/birthday-box.jpg",
+      "price": " USD 5.00 "
+    },
+    {
+      "id": 3,
+      "title": "Mom Box",
+      "image": "https://i.ibb.co/y4S0T1j/mom-box.jpg",
+      "price": " USD 5.00 "
+    },
+    {
+      "id": 4,
+      "title": "Dad Box",
+      "image": "https://i.ibb.co/Mpw1BHm/dad-box.jpg",
+      "price": " USD 5.00 "
+    },
+    {
+      "id": 5,
+      "title": "Grandpa box",
+      "image": "https://i.ibb.co/Njbsd7P/grandpa-box.jpg",
+      "price": " USD 5.00 "
+    }   
+  ]
